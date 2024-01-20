@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x100b80
 size = 0x16
-last_change = 2024-01-20T05:00:21.029483Z
+last_change = 2024-01-20T05:00:21.054952Z
+
+[header]
+last_change = 2024-01-20T05:00:21.054952Z
+name = "_init"
+addr = 0x100b80
+type = "void"
