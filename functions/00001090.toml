@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x1090
+size = 0xb4
+last_change = 2024-01-20T06:52:01.179799Z
+
+[header]
+name = "bugreport_menu"
+addr = 0x1090
