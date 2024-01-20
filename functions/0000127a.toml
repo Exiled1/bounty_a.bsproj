@@ -4,7 +4,6 @@ size = 0x138
 last_change = 2024-01-20T06:16:36.230101Z
 
 [header]
-last_change = 2024-01-20T06:16:36.230101Z
 name = "login"
 addr = 0x127a
 type = "long"
