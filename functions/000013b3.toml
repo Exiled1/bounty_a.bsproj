@@ -4,7 +4,8 @@ size = 0x1fd
 last_change = 2024-01-20T08:07:34.551109Z
 
 [header]
-name = "add_product"
+last_change = 2024-01-20T08:07:34.551109Z
+name = "sub_13b3"
 addr = 0x13b3
 type = "long"
 
@@ -24,9 +25,9 @@ addr = 0x13b3
 
 [stack_vars.-0x58]
 offset = -88
-name = "buf"
-type = "char[64]"
-size = 0x40
+name = "local_58"
+type = "char[72]"
+size = 0x48
 addr = 0x13b3
 
 [stack_vars.-0x10]
