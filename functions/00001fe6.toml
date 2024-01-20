@@ -1,7 +1,14 @@
 [metadata]
 addr = 0x1fe6
-size = 0x2fb
+size = 0x2fc
 
 [header]
 name = "submit_bugreport"
+addr = 0x1fe6
+
+[stack_vars.-0x28]
+offset = -40
+name = "description_len"
+type = "ulong"
+size = 0x8
 addr = 0x1fe6
