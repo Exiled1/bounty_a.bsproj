@@ -1,3 +1,8 @@
 [metadata]
 addr = 0x127a
 size = 0x139
+
+[header]
+name = "login"
+addr = 0x127a
+type = "long"
