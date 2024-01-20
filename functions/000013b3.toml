@@ -24,9 +24,9 @@ addr = 0x13b3
 
 [stack_vars.-0x58]
 offset = -88
-name = "local_58"
-type = "char[72]"
-size = 0x48
+name = "buf"
+type = "char[64]"
+size = 0x40
 addr = 0x13b3
 
 [stack_vars.-0x10]
