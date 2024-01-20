@@ -1,6 +1,6 @@
 [metadata]
 addr = 0x1a21
-size = 0xac
+size = 0xad
 
 [header]
 name = "remove_type"
