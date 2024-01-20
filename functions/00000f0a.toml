@@ -4,7 +4,6 @@ size = 0xa0
 last_change = 2024-01-20T05:14:48.339776Z
 
 [header]
-last_change = 2024-01-20T05:14:48.339776Z
 name = "user_input"
 addr = 0xf0a
 type = "void"
