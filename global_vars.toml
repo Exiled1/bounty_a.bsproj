@@ -3,6 +3,13 @@ addr = 0x205060
 name = "urandom_fd"
 size = 0x8
 
+[0x205068]
+last_change = 2024-01-20T06:14:48.736562Z
+addr = 0x205068
+name = "login_flag"
+type = "char"
+size = 0x1
+
 [0x205078]
 addr = 0x205078
 name = "user_list_head"
