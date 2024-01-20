@@ -4,6 +4,7 @@ size = 0xd7
 last_change = 2024-01-20T06:08:40.097581Z
 
 [header]
+last_change = 2024-01-20T06:08:40.097581Z
 name = "logout"
 addr = 0x2d37
 type = "ulong"
