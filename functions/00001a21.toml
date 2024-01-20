@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x1a21
+size = 0xad
+last_change = 2024-01-20T06:56:26.065305Z
+
+[header]
+name = "remove_type"
+addr = 0x1a21
