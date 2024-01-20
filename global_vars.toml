@@ -7,8 +7,3 @@ size = 0x8
 addr = 0x205080
 name = "user_list_tail"
 size = 0x8
-
-[0x2050a0]
-addr = 0x2050a0
-name = "products"
-size = 0x40
