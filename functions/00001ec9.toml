@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x1ec9
+size = 0x11d
+
+[header]
+name = "remove_bugreport"
+addr = 0x1ec9
