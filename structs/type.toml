@@ -1,0 +1,22 @@
+[metadata]
+name = "type"
+size = 0x10
+last_change = 2024-01-20T08:00:47.924226Z
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "char *"
+size = 0x8
+
+[members.0x8]
+name = "price"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "some_flag?"
+offset = 0xc
+type = "int"
+size = 0x4

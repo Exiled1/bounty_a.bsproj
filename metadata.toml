@@ -1,5 +1,5 @@
 user = "stone"
 version = 0x0
-last_push_time = 2024-01-20T07:54:24.610667Z
-last_push_artifact = 0x1b9a
-last_push_artifact_type = "function"
+last_push_time = 2024-01-20T08:00:47.924226Z
+last_push_artifact = "type"
+last_push_artifact_type = "struct"
