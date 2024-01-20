@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x102fb0
+size = 0xf3
+
+[header]
+name = "setup"
+addr = 0x102fb0
