@@ -1,0 +1,50 @@
+[metadata]
+addr = 0x2aec
+size = 0x24b
+last_change = 2024-01-20T05:54:20.839687Z
+
+[header]
+name = "admin_userinfo"
+addr = 0x2aec
+
+[stack_vars.-0x128]
+offset = -296
+name = "local_128"
+type = "byte[16]"
+size = 0x10
+addr = 0x2aec
+
+[stack_vars.-0x10]
+offset = -16
+name = "local_10"
+type = "long"
+size = 0x8
+addr = 0x2aec
+
+[stack_vars.-0x98]
+offset = -152
+name = "password_hash_hex"
+type = "char[136]"
+size = 0x88
+addr = 0x2aec
+
+[stack_vars.-0x118]
+offset = -280
+name = "contact_hash_hex"
+type = "char[128]"
+size = 0x80
+addr = 0x2aec
+
+[stack_vars.-0x140]
+offset = -320
+name = "local_140"
+type = "int"
+size = 0x4
+addr = 0x2aec
+
+[stack_vars.-0x13c]
+offset = -316
+name = "local_13c"
+type = "int"
+size = 0x4
+addr = 0x2aec
