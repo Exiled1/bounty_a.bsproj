@@ -1,10 +1,17 @@
 [metadata]
 addr = 0x13b3
 size = 0x1fe
-last_change = 2024-01-20T06:56:26.015645Z
+last_change = 2024-01-20T07:31:19.651910Z
 
 [header]
 name = "add_product"
+addr = 0x13b3
+
+[stack_vars.-0x58]
+offset = -88
+name = "buf"
+type = "char[64]"
+size = 0x40
 addr = 0x13b3
 
 [stack_vars.-0x68]
@@ -16,21 +23,7 @@ addr = 0x13b3
 
 [stack_vars.-0x64]
 offset = -100
-name = "local_64"
+name = "index"
 type = "int"
 size = 0x4
-addr = 0x13b3
-
-[stack_vars.-0x58]
-offset = -88
-name = "local_58"
-type = "char[72]"
-size = 0x48
-addr = 0x13b3
-
-[stack_vars.-0x10]
-offset = -16
-name = "local_10"
-type = "long"
-size = 0x8
 addr = 0x13b3
