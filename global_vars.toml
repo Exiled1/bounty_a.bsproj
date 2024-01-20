@@ -3,3 +3,9 @@ last_change = 2024-01-20T05:03:23.769061Z
 addr = 0x205060
 name = "urandom_fd"
 size = 0x8
+
+[0x205078]
+last_change = 2024-01-20T05:43:55.998734Z
+addr = 0x205078
+name = "user_list_head"
+size = 0x8
