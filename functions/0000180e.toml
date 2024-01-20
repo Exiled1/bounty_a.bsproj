@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x180e
 size = 0x146
-last_change = 2024-01-20T05:26:47.250467Z
+last_change = 2024-01-20T06:56:26.043078Z
 
 [header]
-name = "vuln_caller"
+name = "add_type"
 addr = 0x180e
 
 [stack_vars.-0x20]
