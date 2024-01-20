@@ -1,0 +1,93 @@
+[metadata]
+name = "user"
+size = 0x58
+
+[members.0x0]
+name = "password"
+offset = 0x0
+type = "char[16]"
+size = 0x10
+
+[members.0x10]
+name = "username"
+offset = 0x10
+type = "char[32]"
+size = 0x20
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "field_34"
+offset = 0x34
+type = "undefined"
+size = 0x1
+
+[members.0x35]
+name = "field_35"
+offset = 0x35
+type = "undefined"
+size = 0x1
+
+[members.0x36]
+name = "field_36"
+offset = 0x36
+type = "undefined"
+size = 0x1
+
+[members.0x37]
+name = "field_37"
+offset = 0x37
+type = "undefined"
+size = 0x1
+
+[members.0x38]
+name = "contact"
+offset = 0x38
+type = "char *"
+size = 0x8
+
+[members.0x40]
+name = "uid"
+offset = 0x40
+type = "long"
+size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = "undefined4"
+size = 0x4
+
+[members.0x4c]
+name = "field_4c"
+offset = 0x4c
+type = "undefined"
+size = 0x1
+
+[members.0x4d]
+name = "field_4d"
+offset = 0x4d
+type = "undefined"
+size = 0x1
+
+[members.0x4e]
+name = "field_4e"
+offset = 0x4e
+type = "undefined"
+size = 0x1
+
+[members.0x4f]
+name = "field_4f"
+offset = 0x4f
+type = "undefined"
+size = 0x1
+
+[members.0x50]
+name = "next"
+offset = 0x50
+type = "void *"
+size = 0x8
