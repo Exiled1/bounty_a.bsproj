@@ -1,6 +1,6 @@
 [metadata]
 addr = 0x2aec
-size = 0x24a
+size = 0x24b
 
 [header]
 name = "admin_userinfo"
@@ -37,6 +37,13 @@ addr = 0x2aec
 [stack_vars.-0x140]
 offset = -320
 name = "local_140"
+type = "int"
+size = 0x4
+addr = 0x2aec
+
+[stack_vars.-0x13c]
+offset = -316
+name = "local_13c"
 type = "int"
 size = 0x4
 addr = 0x2aec
