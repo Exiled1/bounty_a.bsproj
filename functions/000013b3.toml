@@ -7,3 +7,10 @@ last_change = 2024-01-20T05:57:26.571349Z
 name = "sub_13b3"
 addr = 0x13b3
 type = "long"
+
+[stack_vars.-0x68]
+offset = -104
+name = "local_68"
+type = "int"
+size = 0x4
+addr = 0x13b3
