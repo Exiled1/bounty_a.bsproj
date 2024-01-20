@@ -27,3 +27,9 @@ last_change = 2024-01-20T05:57:37.844430Z
 addr = 0x2050a0
 name = "products"
 size = 0x40
+
+[0x2050e0]
+last_change = 2024-01-20T07:20:42.292766Z
+addr = 0x2050e0
+name = "type_array"
+size = 0x40
