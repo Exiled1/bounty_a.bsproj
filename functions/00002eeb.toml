@@ -1,7 +1,10 @@
 [metadata]
 addr = 0x2eeb
 size = 0xc5
+last_change = 2024-01-20T07:07:39.346271Z
 
 [header]
+last_change = 2024-01-20T07:07:39.346271Z
 name = "bounty_menu"
 addr = 0x2eeb
+type = "void*"
