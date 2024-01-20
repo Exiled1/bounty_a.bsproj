@@ -4,7 +4,6 @@ size = 0x139
 last_change = 2024-01-20T07:57:13.218068Z
 
 [header]
-last_change = 2024-01-20T07:57:13.218068Z
 name = "sub_15b1"
 addr = 0x15b1
 type = "struct struct_3*"
