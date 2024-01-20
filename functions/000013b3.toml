@@ -4,7 +4,6 @@ size = 0x1fd
 last_change = 2024-01-20T05:57:26.571349Z
 
 [header]
-last_change = 2024-01-20T05:57:26.571349Z
 name = "sub_13b3"
 addr = 0x13b3
 type = "long"
