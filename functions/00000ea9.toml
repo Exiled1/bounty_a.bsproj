@@ -1,9 +1,9 @@
 [metadata]
 addr = 0xea9
-size = 0x60
+size = 0x61
 
 [header]
-name = "safe_read"
+name = "read_to_longlong_vuln?"
 addr = 0xea9
 type = "long"
 
