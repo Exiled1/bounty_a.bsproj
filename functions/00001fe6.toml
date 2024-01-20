@@ -1,10 +1,13 @@
 [metadata]
 addr = 0x1fe6
 size = 0x2fc
+last_change = 2024-01-20T07:06:06.657597Z
 
 [header]
+last_change = 2024-01-20T07:06:06.657597Z
 name = "submit_bugreport"
 addr = 0x1fe6
+type = "void*"
 
 [stack_vars.-0x28]
 offset = -40
