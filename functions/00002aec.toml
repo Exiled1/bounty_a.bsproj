@@ -33,3 +33,10 @@ name = "contact_hash_hex"
 type = "char[128]"
 size = 0x80
 addr = 0x2aec
+
+[stack_vars.-0x140]
+offset = -320
+name = "local_140"
+type = "int"
+size = 0x4
+addr = 0x2aec
