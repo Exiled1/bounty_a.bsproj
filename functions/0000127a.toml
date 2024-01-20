@@ -6,3 +6,9 @@ size = 0x139
 name = "login"
 addr = 0x127a
 type = "long"
+
+[stack_vars.-0x48]
+offset = -72
+name = "password_buf"
+size = 0x0
+addr = 0x127a
