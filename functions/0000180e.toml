@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x180e
 size = 0x145
+
+[header]
+name = "vuln_caller"
+addr = 0x180e
