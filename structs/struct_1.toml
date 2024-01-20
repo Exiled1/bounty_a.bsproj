@@ -1,0 +1,27 @@
+[metadata]
+name = "struct_1"
+size = 0x58
+
+[members.0x10]
+name = "username"
+offset = 0x10
+type = "long"
+size = 0x8
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "char*"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "long"
+size = 0x8
+
+[members.0x50]
+name = "field_50"
+offset = 0x50
+type = "long"
+size = 0x8
