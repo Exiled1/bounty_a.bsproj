@@ -1,11 +1,4 @@
 [metadata]
 addr = 0x1954
 size = 0xcc
-last_change = 2024-01-20T07:12:06.609911Z
-
-[stack_vars.-0xc]
-last_change = 2024-01-20T07:12:06.609911Z
-offset = -12
-name = "var_c_20"
-size = 0x0
-addr = 0x1954
+last_change = 2024-01-20T07:12:08.786782Z
