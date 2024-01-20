@@ -1,6 +1,6 @@
 [metadata]
 addr = 0x1090
-size = 0xb3
+size = 0xb4
 
 [header]
 name = "bugreport_menu"
