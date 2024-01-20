@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x127a
 size = 0x138
-last_change = 2024-01-20T05:56:04.548004Z
+last_change = 2024-01-20T06:11:45.703302Z
 
 [header]
 name = "login"
@@ -12,5 +12,13 @@ type = "long"
 last_change = 2024-01-20T05:30:21.545655Z
 offset = -72
 name = "password_buf"
+size = 0x0
+addr = 0x127a
+
+[stack_vars.-0x50]
+last_change = 2024-01-20T06:11:45.703302Z
+offset = -80
+name = "user"
+type = "struct struct_2*"
 size = 0x0
 addr = 0x127a
