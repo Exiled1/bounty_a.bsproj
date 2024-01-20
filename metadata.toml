@@ -1,5 +1,5 @@
 user = "exiled"
 version = 0x0
-last_push_time = 2024-01-20T07:57:10.611775Z
-last_push_artifact = "struct_3"
-last_push_artifact_type = "struct"
+last_push_time = 2024-01-20T07:57:12.342830Z
+last_push_artifact = 0x180e
+last_push_artifact_type = "function"
