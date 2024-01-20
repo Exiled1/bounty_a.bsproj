@@ -1,10 +1,13 @@
 [metadata]
 addr = 0x15b1
 size = 0x13a
+last_change = 2024-01-20T08:52:30.309107Z
 
 [header]
+last_change = 2024-01-20T08:52:30.309107Z
 name = "insert_type"
 addr = 0x15b1
+type = "struct type*"
 
 [stack_vars.-0x14]
 offset = -20
@@ -19,3 +22,15 @@ name = "local_18"
 type = "int"
 size = 0x4
 addr = 0x15b1
+
+[header.args.0]
+offset = 0x0
+name = "arg1"
+type = "char*"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "arg2"
+type = "int"
+size = 0x4
