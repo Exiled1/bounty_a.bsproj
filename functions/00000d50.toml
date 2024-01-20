@@ -1,4 +1,28 @@
 [metadata]
 addr = 0xd50
 size = 0x29
-last_change = 2024-01-20T06:00:42.047899Z
+last_change = 2024-01-20T06:00:42.084416Z
+
+[header]
+last_change = 2024-01-20T06:00:42.084416Z
+name = "_start"
+addr = 0xd50
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "arg1"
+type = "long"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "arg2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "arg3"
+type = "void (*"
+size = 0x8
