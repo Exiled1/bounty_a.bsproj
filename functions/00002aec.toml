@@ -19,3 +19,10 @@ name = "local_10"
 type = "long"
 size = 0x8
 addr = 0x2aec
+
+[stack_vars.-0x98]
+offset = -152
+name = "password_hash_hex"
+type = "char[136]"
+size = 0x88
+addr = 0x2aec
