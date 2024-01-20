@@ -9,8 +9,10 @@ name = "user_list_head"
 size = 0x8
 
 [0x205080]
+last_change = 2024-01-20T06:12:25.288497Z
 addr = 0x205080
-name = "user_list_tail"
+name = "user_list_head"
+type = "struct struct_2*"
 size = 0x8
 
 [0x2050a0]
