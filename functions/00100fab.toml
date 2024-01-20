@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x100fab
+size = 0xe5
+last_change = 2024-01-20T04:51:31.549047Z
+
+[header]
+name = "login_screen"
+addr = 0x100fab
