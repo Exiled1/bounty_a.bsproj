@@ -1,13 +1,13 @@
 [metadata]
 addr = 0x180e
 size = 0x146
-last_change = 2024-01-20T08:16:40.935157Z
+last_change = 2024-01-20T08:50:45.699169Z
 
 [header]
-last_change = 2024-01-20T08:16:40.935157Z
+last_change = 2024-01-20T08:50:45.699169Z
 name = "leak_vuln_here"
 addr = 0x180e
-type = "long"
+type = "void"
 
 [stack_vars.-0x20]
 offset = -32
