@@ -1,6 +1,6 @@
 [metadata]
 name = "product"
-size = 0x38
+size = 0x58
 
 [members.0x0]
 name = "name"
@@ -12,4 +12,22 @@ size = 0x30
 name = "company"
 offset = 0x30
 type = "char[8]"
+size = 0x8
+
+[members.0x38]
+name = "head"
+offset = 0x38
+type = "bugreport *"
+size = 0x8
+
+[members.0x40]
+name = "comment"
+offset = 0x40
+type = "char[16]"
+size = 0x10
+
+[members.0x50]
+name = "something??"
+offset = 0x50
+type = "void *"
 size = 0x8
