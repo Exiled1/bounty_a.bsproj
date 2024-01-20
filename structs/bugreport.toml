@@ -1,0 +1,123 @@
+[metadata]
+name = "bugreport"
+size = 0x140
+
+[members.0x0]
+name = "title"
+offset = 0x0
+type = "char[256]"
+size = 0x100
+
+[members.0x100]
+name = "field_100"
+offset = 0x100
+type = "user *"
+size = 0x8
+
+[members.0x108]
+name = "description_len"
+offset = 0x108
+type = "ulong"
+size = 0x8
+
+[members.0x110]
+name = "id"
+offset = 0x110
+type = "int"
+size = 0x4
+
+[members.0x114]
+name = "field_114"
+offset = 0x114
+type = "undefined"
+size = 0x1
+
+[members.0x115]
+name = "field_115"
+offset = 0x115
+type = "undefined"
+size = 0x1
+
+[members.0x116]
+name = "field_116"
+offset = 0x116
+type = "undefined"
+size = 0x1
+
+[members.0x117]
+name = "field_117"
+offset = 0x117
+type = "undefined"
+size = 0x1
+
+[members.0x118]
+name = "description"
+offset = 0x118
+type = "char *"
+size = 0x8
+
+[members.0x120]
+name = "field_120"
+offset = 0x120
+type = "long"
+size = 0x8
+
+[members.0x128]
+name = "field_128"
+offset = 0x128
+type = "long"
+size = 0x8
+
+[members.0x130]
+name = "field_130"
+offset = 0x130
+type = "long"
+size = 0x8
+
+[members.0x138]
+name = "field_138"
+offset = 0x138
+type = "char"
+size = 0x1
+
+[members.0x139]
+name = "field_139"
+offset = 0x139
+type = "undefined"
+size = 0x1
+
+[members.0x13a]
+name = "field_13a"
+offset = 0x13a
+type = "undefined"
+size = 0x1
+
+[members.0x13b]
+name = "field_13b"
+offset = 0x13b
+type = "undefined"
+size = 0x1
+
+[members.0x13c]
+name = "field_13c"
+offset = 0x13c
+type = "undefined"
+size = 0x1
+
+[members.0x13d]
+name = "field_13d"
+offset = 0x13d
+type = "undefined"
+size = 0x1
+
+[members.0x13e]
+name = "field_13e"
+offset = 0x13e
+type = "undefined"
+size = 0x1
+
+[members.0x13f]
+name = "field_13f"
+offset = 0x13f
+type = "undefined"
+size = 0x1
