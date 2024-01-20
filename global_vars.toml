@@ -21,6 +21,8 @@ type = "struct struct_2*"
 size = 0x8
 
 [0x2050a0]
+last_change = 2024-01-20T07:10:36.944595Z
 addr = 0x2050a0
-name = "products"
-size = 0x40
+name = "product_list"
+type = "void"
+size = 0x0
