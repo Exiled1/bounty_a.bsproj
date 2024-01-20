@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x2e0f
+size = 0x6a
+last_change = 2024-01-20T05:49:27.048473Z
+
+[header]
+name = "set_admin_password"
+addr = 0x2e0f
