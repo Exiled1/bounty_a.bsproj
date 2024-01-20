@@ -1,10 +1,10 @@
 [metadata]
 addr = 0xfab
 size = 0xe4
-last_change = 2024-01-20T04:48:38.262115Z
+last_change = 2024-01-20T05:06:19.499059Z
 
 [header]
-last_change = 2024-01-20T04:48:38.262115Z
-name = "menu"
+last_change = 2024-01-20T05:06:19.499059Z
+name = "login_menu"
 addr = 0xfab
 type = "long"
