@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x15b1
+size = 0x13a
+last_change = 2024-01-20T08:50:05.170003Z
+
+[header]
+name = "insert_type"
+addr = 0x15b1
+
+[stack_vars.-0x14]
+offset = -20
+name = "local_14"
+type = "int"
+size = 0x4
+addr = 0x15b1
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x15b1
