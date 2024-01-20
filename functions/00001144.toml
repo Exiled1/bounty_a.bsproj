@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x1144
 size = 0x135
-last_change = 2024-01-20T05:36:28.724481Z
+last_change = 2024-01-20T05:36:08.081005Z
 
 [header]
-last_change = 2024-01-20T05:36:28.724481Z
+last_change = 2024-01-20T05:36:08.081005Z
 name = "register"
 addr = 0x1144
-type = "struct struct_1*"
+type = "char*"
