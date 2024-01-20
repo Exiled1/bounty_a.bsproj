@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x1ec9
+size = 0x11d
+last_change = 2024-01-20T07:44:13.156723Z
+
+[header]
+name = "remove_bugreport"
+addr = 0x1ec9
