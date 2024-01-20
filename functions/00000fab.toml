@@ -4,7 +4,6 @@ size = 0xe4
 last_change = 2024-01-20T06:14:48.770252Z
 
 [header]
-last_change = 2024-01-20T06:14:48.770252Z
 name = "login_menu"
 addr = 0xfab
 type = "long"
