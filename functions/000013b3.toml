@@ -14,3 +14,10 @@ name = "local_68"
 type = "int"
 size = 0x4
 addr = 0x13b3
+
+[stack_vars.-0x64]
+offset = -100
+name = "local_64"
+type = "int"
+size = 0x4
+addr = 0x13b3
