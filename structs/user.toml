@@ -1,7 +1,7 @@
 [metadata]
 name = "user"
 size = 0x58
-last_change = 2024-01-20T06:09:59.170424Z
+last_change = 2024-01-20T08:04:14.989446Z
 
 [members.0x0]
 name = "password"
@@ -16,7 +16,7 @@ type = "char[32]"
 size = 0x20
 
 [members.0x30]
-name = "field_30"
+name = "balance"
 offset = 0x30
 type = "int"
 size = 0x4
