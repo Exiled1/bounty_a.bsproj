@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x2aec
 size = 0x24a
+
+[header]
+name = "admin_userinfo"
+addr = 0x2aec
