@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x1ace
 size = 0xcb
+
+[header]
+name = "print_products"
+addr = 0x1ace
