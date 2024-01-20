@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x2907
+size = 0x160
+last_change = 2024-01-20T07:41:54.912539Z
+
+[header]
+name = "evaluate_vuln"
+addr = 0x2907
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x2907
+
+[stack_vars.-0x14]
+offset = -20
+name = "i"
+type = "int"
+size = 0x4
+addr = 0x2907
+
+[stack_vars.-0x10]
+offset = -16
+name = "report"
+type = "bugreport *"
+size = 0x8
+addr = 0x2907
