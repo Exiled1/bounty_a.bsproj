@@ -3,7 +3,6 @@ addr = 0x127a
 size = 0x138
 
 [header]
-last_change = 2024-01-20T05:30:24.905115Z
 name = "login"
 addr = 0x127a
 type = "long"
