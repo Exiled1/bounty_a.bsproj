@@ -1,5 +1,5 @@
 user = "stone"
 version = 0x0
-last_push_time = 2024-01-20T07:20:42.292766Z
-last_push_artifact = 0x2050e0
-last_push_artifact_type = "global variable"
+last_push_time = 2024-01-20T07:23:50.600340Z
+last_push_artifact = "bugreport"
+last_push_artifact_type = "struct"
