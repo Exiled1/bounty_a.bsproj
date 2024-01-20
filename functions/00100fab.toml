@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x100fab
 size = 0x0
+
+[header]
+name = "login_screen"
+addr = 0x100fab
