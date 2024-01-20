@@ -4,8 +4,7 @@ size = 0x146
 last_change = 2024-01-20T08:16:40.935157Z
 
 [header]
-last_change = 2024-01-20T08:16:40.935157Z
-name = "leak_vuln_here"
+name = "add_type"
 addr = 0x180e
 type = "long"
 
