@@ -1,16 +1,4 @@
 [metadata]
 addr = 0x1954
 size = 0xcc
-last_change = 2024-01-20T07:12:08.902785Z
-
-[header]
-last_change = 2024-01-20T07:12:08.902785Z
-name = "sub_1954"
-addr = 0x1954
-type = "long"
-
-[header.args.0]
-offset = 0x0
-name = "arg1"
-type = "long"
-size = 0x8
+last_change = 2024-01-20T07:12:08.972852Z
