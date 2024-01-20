@@ -4,8 +4,7 @@ size = 0x1fd
 last_change = 2024-01-20T08:07:34.551109Z
 
 [header]
-last_change = 2024-01-20T08:07:34.551109Z
-name = "sub_13b3"
+name = "add_product"
 addr = 0x13b3
 type = "long"
 
