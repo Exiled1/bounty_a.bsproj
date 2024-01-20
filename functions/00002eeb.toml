@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x2eeb
 size = 0xc4
+
+[header]
+name = "bounty_menu"
+addr = 0x2eeb
