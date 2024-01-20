@@ -1,9 +1,8 @@
 [metadata]
 addr = 0x100fab
 size = 0xe5
-last_change = 2024-01-20T05:01:22.312665Z
 
 [header]
-name = "sub_100fab"
+name = "login_screen"
 addr = 0x100fab
 type = "long"
