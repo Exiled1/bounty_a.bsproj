@@ -1,9 +1,11 @@
 [metadata]
 addr = 0x15b1
 size = 0x139
+last_change = 2024-01-20T08:51:00.769607Z
 
 [header]
-name = "sub_15b1"
+last_change = 2024-01-20T08:51:00.769607Z
+name = "insert_type\\"
 addr = 0x15b1
 type = "struct struct_3*"
 
