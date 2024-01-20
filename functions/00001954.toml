@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x1954
 size = 0xcc
-last_change = 2024-01-20T07:12:08.972852Z
+last_change = 2024-01-20T07:12:09.007537Z
+
+[stack_vars.-0xc]
+last_change = 2024-01-20T07:12:09.007537Z
+offset = -12
+name = "i"
+type = "int"
+size = 0x0
+addr = 0x1954
