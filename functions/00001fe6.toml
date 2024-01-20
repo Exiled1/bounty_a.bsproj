@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x1fe6
 size = 0x2fc
-last_change = 2024-01-20T06:09:09.692301Z
+last_change = 2024-01-20T06:52:01.155665Z
 
 [header]
-name = "beeg_struct??"
+name = "submit_bugreport"
 addr = 0x1fe6
 
 [stack_vars.-0x28]
