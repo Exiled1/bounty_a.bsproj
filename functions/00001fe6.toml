@@ -1,0 +1,15 @@
+[metadata]
+addr = 0x1fe6
+size = 0x2fc
+last_change = 2024-01-20T06:09:09.692301Z
+
+[header]
+name = "beeg_struct??"
+addr = 0x1fe6
+
+[stack_vars.-0x28]
+offset = -40
+name = "description_len"
+type = "ulong"
+size = 0x8
+addr = 0x1fe6
