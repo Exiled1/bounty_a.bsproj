@@ -10,7 +10,7 @@ size = 0x1
 
 [0x205078]
 addr = 0x205078
-name = "user_list_head"
+name = "user_list_tail"
 size = 0x8
 
 [0x205080]
