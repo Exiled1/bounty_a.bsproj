@@ -1,7 +1,7 @@
 [metadata]
 name = "bugreport"
 size = 0x140
-last_change = 2024-01-20T07:23:50.600340Z
+last_change = 2024-01-20T07:37:20.608389Z
 
 [members.0x0]
 name = "title"
@@ -64,15 +64,15 @@ type = "long"
 size = 0x8
 
 [members.0x128]
-name = "field_128"
+name = "prev"
 offset = 0x128
-type = "long"
+type = "bugreport *"
 size = 0x8
 
 [members.0x130]
-name = "field_130"
+name = "next"
 offset = 0x130
-type = "long"
+type = "bugreport *"
 size = 0x8
 
 [members.0x138]
