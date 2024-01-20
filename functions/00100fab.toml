@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x100fab
 size = 0xe5
-last_change = 2024-01-20T05:00:37.391331Z
+last_change = 2024-01-20T05:00:44.478056Z
 
 [header]
-last_change = 2024-01-20T05:00:37.391331Z
-name = "bonk"
+last_change = 2024-01-20T05:00:44.478056Z
+name = "login_screen"
 addr = 0x100fab
 type = "long"
