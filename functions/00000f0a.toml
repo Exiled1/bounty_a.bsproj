@@ -1,4 +1,22 @@
 [metadata]
 addr = 0xf0a
 size = 0xa0
-last_change = 2024-01-20T05:14:44.644288Z
+last_change = 2024-01-20T05:14:45.518645Z
+
+[header]
+last_change = 2024-01-20T05:14:45.518645Z
+name = "user_input"
+addr = 0xf0a
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "arg1"
+type = "void*"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "arg2"
+type = "int"
+size = 0x4
