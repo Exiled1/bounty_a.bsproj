@@ -4,6 +4,7 @@ size = 0x29
 last_change = 2024-01-20T06:00:42.084416Z
 
 [header]
+last_change = 2024-01-20T06:00:42.084416Z
 name = "_start"
 addr = 0xd50
 type = "void"
