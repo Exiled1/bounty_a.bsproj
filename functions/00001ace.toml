@@ -1,7 +1,14 @@
 [metadata]
 addr = 0x1ace
-size = 0xcb
+size = 0xcc
 
 [header]
 name = "print_products"
+addr = 0x1ace
+
+[stack_vars.-0xc]
+offset = -12
+name = "i"
+type = "uint"
+size = 0x4
 addr = 0x1ace
