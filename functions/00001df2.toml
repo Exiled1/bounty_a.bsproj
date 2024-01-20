@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x1df2
 size = 0xd6
+
+[header]
+name = "insert_bugreport"
+addr = 0x1df2
