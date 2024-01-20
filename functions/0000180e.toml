@@ -1,11 +1,11 @@
 [metadata]
 addr = 0x180e
 size = 0x146
-last_change = 2024-01-20T08:16:40.935157Z
+last_change = 2024-01-20T08:52:30.375954Z
 
 [header]
-last_change = 2024-01-20T08:16:40.935157Z
-name = "leak_vuln_here"
+last_change = 2024-01-20T08:52:30.375954Z
+name = "add_type"
 addr = 0x180e
 type = "long"
 
