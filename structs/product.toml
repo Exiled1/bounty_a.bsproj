@@ -1,0 +1,16 @@
+[metadata]
+name = "product"
+size = 0x38
+last_change = 2024-01-20T06:09:58.669088Z
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "char[48]"
+size = 0x30
+
+[members.0x30]
+name = "company"
+offset = 0x30
+type = "char[8]"
+size = 0x8
