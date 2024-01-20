@@ -1,7 +1,14 @@
 [metadata]
 addr = 0x180e
-size = 0x145
+size = 0x146
 
 [header]
 name = "vuln_caller"
+addr = 0x180e
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "char *"
+size = 0x8
 addr = 0x180e
