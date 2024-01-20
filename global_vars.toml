@@ -24,3 +24,8 @@ size = 0x8
 addr = 0x2050a0
 name = "products"
 size = 0x40
+
+[0x2050e0]
+addr = 0x2050e0
+name = "type_array"
+size = 0x40
