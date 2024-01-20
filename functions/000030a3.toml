@@ -4,7 +4,6 @@ size = 0x14e
 last_change = 2024-01-20T05:36:26.398960Z
 
 [header]
-last_change = 2024-01-20T05:36:26.398960Z
 name = "main"
 addr = 0x30a3
 type = "int"
