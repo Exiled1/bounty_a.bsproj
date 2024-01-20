@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x180e
 size = 0x146
-last_change = 2024-01-20T06:56:26.043078Z
+last_change = 2024-01-20T08:08:09.338287Z
 
 [header]
 name = "add_type"
@@ -9,7 +9,7 @@ addr = 0x180e
 
 [stack_vars.-0x20]
 offset = -32
-name = "local_20"
+name = "token"
 type = "char *"
 size = 0x8
 addr = 0x180e
