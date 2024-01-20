@@ -12,3 +12,10 @@ name = "local_128"
 type = "byte[16]"
 size = 0x10
 addr = 0x2aec
+
+[stack_vars.-0x10]
+offset = -16
+name = "local_10"
+type = "long"
+size = 0x8
+addr = 0x2aec
