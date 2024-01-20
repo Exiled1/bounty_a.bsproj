@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x1b9a
 size = 0x257
+
+[header]
+name = "show_vulnerability"
+addr = 0x1b9a
