@@ -8,3 +8,10 @@ name = "report"
 type = "bugreport *"
 size = 0x8
 addr = 0x2907
+
+[stack_vars.-0x14]
+offset = -20
+name = "i"
+type = "int"
+size = 0x4
+addr = 0x2907
