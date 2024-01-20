@@ -1,10 +1,17 @@
 [metadata]
 addr = 0x127a
 size = 0x138
-last_change = 2024-01-20T05:30:10.939654Z
+last_change = 2024-01-20T05:30:21.545655Z
 
 [header]
 last_change = 2024-01-20T05:30:10.939654Z
 name = "login"
 addr = 0x127a
 type = "long"
+
+[stack_vars.-0x48]
+last_change = 2024-01-20T05:30:21.545655Z
+offset = -72
+name = "password_buf"
+size = 0x0
+addr = 0x127a
