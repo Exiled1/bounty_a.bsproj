@@ -1,10 +1,13 @@
 [metadata]
 addr = 0x2aec
 size = 0x24b
+last_change = 2024-01-20T07:59:58.478280Z
 
 [header]
+last_change = 2024-01-20T07:59:58.478280Z
 name = "admin_userinfo"
 addr = 0x2aec
+type = "long"
 
 [stack_vars.-0x128]
 offset = -296
