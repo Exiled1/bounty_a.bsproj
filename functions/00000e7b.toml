@@ -1,0 +1,7 @@
+[metadata]
+addr = 0xe7b
+size = 0x2e
+
+[header]
+name = "get_random_bytes"
+addr = 0xe7b
