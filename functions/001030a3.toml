@@ -1,0 +1,7 @@
+[metadata]
+addr = 0x1030a3
+size = 0x14f
+
+[header]
+name = "main"
+addr = 0x1030a3
