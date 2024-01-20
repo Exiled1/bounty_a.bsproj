@@ -1,7 +1,7 @@
 [metadata]
 name = "struct_1"
 size = 0x58
-last_change = 2024-01-20T05:42:02.396265Z
+last_change = 2024-01-20T05:36:49.097154Z
 
 [members.0x10]
 name = "username"
@@ -9,20 +9,14 @@ offset = 0x10
 type = "long"
 size = 0x8
 
-[members.0x30]
-name = "field_30"
-offset = 0x30
-type = "int"
-size = 0x4
-
 [members.0x38]
-name = "contact"
+name = "field_38"
 offset = 0x38
 type = "char*"
 size = 0x8
 
 [members.0x40]
-name = "userid"
+name = "field_40"
 offset = 0x40
 type = "long"
 size = 0x8
