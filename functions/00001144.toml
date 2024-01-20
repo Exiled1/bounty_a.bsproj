@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x1144
+size = 0x136
+last_change = 2024-01-20T05:49:27.315363Z
+
+[header]
+name = "register_nonadmin"
+addr = 0x1144
